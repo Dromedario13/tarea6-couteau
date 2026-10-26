@@ -1,0 +1,7 @@
+{
+  "name": "tarea6-couteau",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
